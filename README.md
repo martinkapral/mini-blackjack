@@ -1,1 +1,1 @@
-# mini-blackjack
+https://martinkapral.github.io/mini-blackjack/
