@@ -104,8 +104,10 @@ h1 {
 }
 
 #message-el {
+  color: rgb(223, 100, 100);
   font-style: italic;
-  font-size: 30px;
+  font-weight: bold;
+  font-size: 28px;
 
   animation: blinker 1s linear infinite;
   margin-bottom: 25px;
