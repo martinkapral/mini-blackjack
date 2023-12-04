@@ -146,7 +146,7 @@ button {
 .startgame-button {
   width: 440px;
   height: 80px;
-  font-size: 60px;
+  font-size: 50px;
   border-radius: 20px;
 
   padding-top: 5px;
@@ -157,7 +157,7 @@ button {
 .newcard-button {
   width: 240px;
   height: 60px;
-  font-size: 40px;
+  font-size: 30px;
   border-radius: 20px;
   border: solid 2px #002511;
   margin: auto;
